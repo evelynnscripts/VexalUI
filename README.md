@@ -7,7 +7,7 @@ Currently supports:
 - Creating Toggles
 - Creating Sliders
 - Creating Colorpickers (in progress)
----https://i.imgur.com/nSMm973.png
+---
 <div style="display:flex; flex-direction:column; gap:16px; align-items:center;">
   <div style="text-align:center;">
     <div>Version 4 (30 June)</div>
